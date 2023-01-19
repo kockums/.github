@@ -1,8 +1,9 @@
 <p align="center">
-  <img src="https://github.com/kockums/.assets/blob/a10cad139651ba404864f0790f7296a0e9c67ef1/logo/kockums-logo_light.png" width="20%" height="20%" alt="Kockums Logo">
+  <img src="https://github.com/kockums/.assets/blob/566747f26c73abeaae943065e9d8cbcc40621ee6/banner/kockums-banner.png" width="20%" height="20%" alt="Kockums Logo">
 </p>
 <h1 align='center' style='border-bottom: none;'>Kockums</h1>
-<h3 align='center'>Spatial Robotics</h3>
+<h3 align='center'>Spatial Intelligence and Robotics
+</h3>
 <br>
 
 
