@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://github.com/kockums/.assets/blob/566747f26c73abeaae943065e9d8cbcc40621ee6/banner/kockums-banner.png" width="100%" height="100%" alt="Kockums Banner">
+  <img src="https://github.com/kockums/.assets/blob/ff02926e10c4770a733ee70032e79ac941d10b4e/banner/kockums-banner.png" width="100%" height="100%" alt="Kockums Banner">
 </p>
-<h1 align='center' style='border-bottom: none;'>Kockums</h1>
 <h3 align='center'>Spatial Intelligence and Robotics
 </h3>
 <br>
@@ -11,10 +10,6 @@ Kockums Robotics is a cutting-edge company that specializes in the design, devel
 Our core product line includes robotic platforms spanneing aerial drones, ground-based vehicles, marine surface and underwater systems. These platforms are equipped with a wide range of sensors and tools, including cameras, lidar, and sonar, to collect data in a variety of environments.
 
 Our robots and drones are equipped with state-of-the-art sensors and mapping technology, allowing them to collect and process large amounts of data in a fast and efficient manner. This data can then be used to create detailed maps, 3D models, and other geospatial information that is used in industries such as construction, mining, agriculture, and environmental monitoring.
-
-One of our most popular products is our fleet of autonomous drones that can be used for mapping and surveying large areas of land. These drones are equipped with high-resolution cameras and lidar sensors that can capture detailed images and point clouds of the terrain. The data collected by these drones can be used to create detailed 3D models of the area, which can be used for construction planning, volume calculation, and environmental monitoring.
-
-We also have ground-based robots, which can navigate rough terrain and are equipped with a variety of sensors to collect data on soil, vegetation, and water quality. These robots are particularly useful in agriculture and mining applications where they can be used to monitor crop health, soil moisture, and mineral deposits.
 
 Our team of engineers and scientists are experts in the field of robotics and have a deep understanding of the geospatial industry. We work closely with our clients to understand their specific needs and tailor our solutions to meet their requirements.
 
