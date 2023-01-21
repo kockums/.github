@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/kockums/.assets/blob/ff02926e10c4770a733ee70032e79ac941d10b4e/banner/kockums-banner.png" width="100%" height="100%" alt="Kockums Banner">
+  <img src="https://kockums.github.io/.assets/image/banner/kockums-banner.png" width="100%" height="100%" alt="Kockums Banner">
 </p>
 <h3 align='center'>Spatial Intelligence and Robotics
 </h3>
